@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mavericks-nl
 - 👀 I’m interested in Softwares and Apps.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning NodJs.
 - 💞️ I’m looking to collaborate on Javacript,css,html and all thing software Dev.
 - 📫 How to reach me ...
 -There's more to me than my Repo.
